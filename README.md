@@ -10,7 +10,7 @@ This repository contains the code for the paper: mCPT at SemEval-2023 Task 3: Mu
 TLDR: Our system (mCPT) employs a pre-training procedure based on multilingual Transformers using a label-aware contrastive loss function to tackle the SemEval-2023 Task 3 Subtask Framing Detection.  
 The challenge of the shared task lies in identifying a set of 14 frames when only a few or zero samples are available, i.e., a multilingual multi-label few- or zero-shot setting.  
 Therein, we exploit two features of the task: (i) multi-label information and (ii) multilingual data for pre-training.  
-We are first on the Spanish framing prediction leaderboard: https://propaganda.math.unipd.it/semeval2023task3/SemEval2023testleaderboard.html
+We are first on the Spanish framing prediction [leaderboard](https://propaganda.math.unipd.it/semeval2023task3/SemEval2023testleaderboard.html).
 
 ![mCPT-Overview](training.png)
 
@@ -19,7 +19,7 @@ Our contributions are:
 - C2 We describe a two-phase multi-stage training procedure for multilingual scenarios with limited data, i.e., few- and zero-shot predictions.
 - C3 We demonstrate the effectiveness of our winning system for framing detection supported by embedding and ablation studies.
 
-The pretrained model is available at: https://huggingface.co/socialcomplab
+The pretrained model is available at [HuggingFace organization page](https://huggingface.co/socialcomplab)
 
 Model usage:
 ```python
