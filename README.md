@@ -5,7 +5,7 @@
 > Kevin Innerhofer  
 > Elisabeth Lex  
 
-This repository contains the code for the paper: mCPT at SemEval-2023 Task 3: Multilingual Label-Aware Contrastive Pre-Training of Transformers for Few- and Zero-shot Framing Detection ([Preprint](https://arxiv.org/abs/2303.09901), [TODO: Link to paper once published]()).
+This repository contains the code for the paper: mCPT at SemEval-2023 Task 3: Multilingual Label-Aware Contrastive Pre-Training of Transformers for Few- and Zero-shot Framing Detection ([ACL Anthology](https://aclanthology.org/2023.semeval-1.130/), [arXive Preprint](https://arxiv.org/abs/2303.09901)).
 
 TLDR: Our system (mCPT) employs a pre-training procedure based on multilingual Transformers using a label-aware contrastive loss function to tackle the SemEval-2023 Task 3 Subtask Framing Detection.  
 The challenge of the shared task lies in identifying a set of 14 frames when only a few or zero samples are available, i.e., a multilingual multi-label few- or zero-shot setting.  
