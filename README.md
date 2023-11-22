@@ -2,7 +2,7 @@
 
 > Alexander Ertl  
 > Markus Reiter-Haas  
-> Kevin Innerhofer  
+> Kevin Innerebner  
 > Elisabeth Lex  
 
 This repository contains the code for the paper: mCPT at SemEval-2023 Task 3: Multilingual Label-Aware Contrastive Pre-Training of Transformers for Few- and Zero-shot Framing Detection ([ACL Anthology](https://aclanthology.org/2023.semeval-1.130/), [arXive Preprint](https://arxiv.org/abs/2303.09901)).
